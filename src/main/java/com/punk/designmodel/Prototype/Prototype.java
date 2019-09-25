@@ -1,4 +1,6 @@
 package com.punk.designmodel.Prototype;
 
-public class Prototype {
+public interface Prototype {
+
+    public Object clone();
 }
