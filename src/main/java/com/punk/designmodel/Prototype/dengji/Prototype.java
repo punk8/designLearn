@@ -1,4 +1,7 @@
 package com.punk.designmodel.Prototype.dengji;
 
-public class Prototype {
+public interface Prototype {
+    public Prototype clone();
+    public String getName();
+    public void setName(String name);
 }
