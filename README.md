@@ -6,5 +6,5 @@
 5. [Prototype](src/main/java/com/punk/designmodel/Prototype/prototype.txt)
 6. [Proxy](src/main/java/com/punk/designmodel/Proxy/Proxy.txt)
 7. [Singleton](src/main/java/com/punk/designmodel/Singleton/singleton.txt)
-
+8. [Flyweight](src/main/java/com/punk/designmodel/Flyweight/Flyweight.txt)
 
