@@ -1,4 +1,4 @@
-##设计模式
+## 设计模式
 1. [Adapter](src/main/java/com/punk/designmodel/Adapter/Adapter.txt)
 2. [BuilderModel](src/main/java/com/punk/designmodel/BuilderModel/BuilderModel.txt)
 3. [Composite](src/main/java/com/punk/designmodel/Composite/safe/Composite.txt)
