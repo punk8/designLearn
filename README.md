@@ -11,4 +11,5 @@
 10. [Bridge](src/main/java/com/punk/designmodel/Bridge/Bridge.txt)
 11. [Template](src/main/java/com/punk/designmodel/Template/Template.txt)
 12. [Strategy](src/main/java/com/punk/designmodel/Strategy/Strategy.txt)
-
+13. [Observer](src/main/java/com/punk/designmodel/Observer/Observer.txt)
+14. [Chain of Responsibility](src/main/java/com/punk/designmodel/ChainofResponsibility/ChainofResponsibility.txt)
